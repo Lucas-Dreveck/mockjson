@@ -2,6 +2,6 @@
     "tarefas": [ 
         { "id": 1, "title": "Ir a aula" },
         { "id": 2, "title": "Fazer exercicios" },
-        { "id": 3, "title": "Ir ao mercado" },
+        { "id": 3, "title": "Ir ao mercado" }
      ]
 }
